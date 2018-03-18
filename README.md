@@ -1,1 +1,1 @@
-##A simple travel destination website template
+## A simple travel destination website template
